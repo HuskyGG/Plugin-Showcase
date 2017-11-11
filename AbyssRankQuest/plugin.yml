@@ -1,0 +1,6 @@
+ name: HubCore
+ main: husky.abysspvp.ranks.Main
+ version: 1.0
+  
+ commands:
+    rankquest:

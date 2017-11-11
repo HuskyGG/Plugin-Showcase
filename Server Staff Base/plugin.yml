@@ -1,0 +1,35 @@
+name: StaffBase
+main: com.abysspvp.staffbase.Main
+version: 1.0
+author: Brad
+
+commands:
+  staffbasereload:
+    aliases: [sbr, staffbr]
+    description: AbyssPvP custom staff mode plugin!    
+  ss:
+    aliases: [freeze, screenshare]
+    description: AbyssPvP custom staff mode plugin!                
+  staffmode:
+    aliases: [sm, staffm, adminmode, admin]
+    description: AbyssPvP custom staff mode plugin!
+  smb:
+    description: AbyssPvP custom staff mode plugin!
+  gm:
+    aliases: [gamemode]
+    description: AbyssPvP custom staff mode plugin!
+  alert:
+    aliases: [a, alerts]
+    description: AbyssPvP custom staff mode plugin!
+  salert:
+    aliases: [sa, salerts]
+    description: AbyssPvP custom staff mode plugin!    
+  staffchat:
+    aliases: [sc, staffc]
+    description: AbyssPvP custom staff mode plugin!
+  help:
+    aliases: [h, hel]
+    description: AbyssPvP custom staff mode plugin!                
+  helpop:
+    aliases: [hop, helop]
+    description: AbyssPvP custom staff mode plugin!          

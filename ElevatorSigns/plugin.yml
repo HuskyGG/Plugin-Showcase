@@ -1,0 +1,7 @@
+name: ElevatorSigns
+main: com.husky.elevators.Main
+version: 1.0
+author: HuskyGG
+
+commands:
+  elevator:

@@ -1,0 +1,7 @@
+name: Animations
+main: com.husky.animations.Main
+version: 1.0
+
+commands: 
+  animate:
+  

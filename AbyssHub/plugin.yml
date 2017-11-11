@@ -1,0 +1,6 @@
+ name: HubCore
+ main: husky.abysspvp.hub.Main
+ version: 1.0
+  
+ commands:
+    hub:

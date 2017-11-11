@@ -1,0 +1,54 @@
+#############################
+#                           #
+#      PLugin By Husky      #
+#                           #
+#       Version: 1.0        #
+#                           #
+#############################
+
+# Staffmode Config
+# Item Names
+StaffmodeEnbled: true
+PlayerHistory: '&d&lPlayer History'
+
+RandomPlayer: '&d&lRandom Player'
+
+ShowReports: '&d&lShow Reports'
+
+FreezePlayer: '&d&lFreeze Player'
+
+VanishToggle: '&d&lVanish Toggle'
+
+FireBall: '&d&lFireBall'
+
+# Freeze Message
+# Use \n to create a new line!
+FreezeEnabled: true
+FreezePlayerMessage: '&eYou have frozen %player%'
+UnFreezePlayerMessage: '&e%player% has been UnFrozen'
+FrozenHeader: ''
+FrozenLine1: '     &eYou have been &c&lFROZEN'
+FrozenLine2: '     &ePlease join teamspeak @ ts.yourts.com'
+FrozenFooter: ''
+UnFrozenMessage: 'You have been unfrozen!'
+# Messages [For the message after the alerts, you must add a space then the formatting you wish]
+# EG. &c&lALERT &e <-- That would make the message after the alert would be yellow!
+AlertsEnabled: true
+ServerAlertFormat: '&c&lALERT &e'
+
+StaffAlertFormat: '&c&lStaff ALERT &e'
+
+# Staff Chat Things
+# This is the same as the Alerts with formatting. But for the players name use %player%
+StaffchatEnabled: true
+StaffChatFormat: '&c&lSTAFF &e %player% - &c'
+
+# Help Command
+HelpEnabled: true
+HelpHeader: '&d&m================&c&l  Help  &d&m================'
+HelpCenter1: 'Stuff'
+HelpCenter2: 'Stuff'
+HelpCenter3: 'stuff'
+HelpCenter4: 'stuff'
+HelpCenter5: 'stuff'
+HelpFooter: '&d&m======================================='

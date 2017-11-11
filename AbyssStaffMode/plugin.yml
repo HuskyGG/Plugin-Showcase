@@ -1,0 +1,11 @@
+name: AbyssStaffMode
+main: com.abysspvp.staffmode.Main
+version: 1.0
+author: Brad
+
+commands:
+  staffmode:
+    aliases: [sm, staffm, adminmode, admin]
+    description: AbyssPvP custom staff mode plugin!
+  smb:
+    description: AbyssPvP custom staff mode plugin!
